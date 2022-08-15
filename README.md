@@ -11,3 +11,7 @@ The aim is to identify differentially expressed genes useful in the development 
 
 ## **Workflow**
 ![workfolw](figures/workflow.png)
+
+## **Data Sources**
+
+Differential gene expression analysis will be carried out using pubicly available RNA seq data from [NCBI](https://github.com/omicscodeathon/commonbean_degs/blob/main/accessions/acc_list52.txt)
