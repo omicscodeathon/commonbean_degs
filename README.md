@@ -1,2 +1,3 @@
 # commonbean_degs
 Differential Gene Expression Analysis of Common Bean Lineages During Development
+Common bean(Phaseolus vulgaris) is an annual leguminous plant grown majorly for its edible dry seeds. It is a protein-rich legume with vital proteinaceous nutrients, carbohydrates, some vitamins and micronutrients. Despite its nutritional importance, its adoption in diets is restricted by a phenomenon known as the hard-to-cook defect. Transcriptomic profiling in three common bean varieties, fast-cooking (cv. Rosecoco), a slow-cooking (cv. Pinto) and intermediate (cv. Canadian wonder) is explored in this study to determine differentially expressed genes that may contribute to HTC development. 
