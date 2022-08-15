@@ -14,7 +14,7 @@ The aim is to identify differentially expressed genes useful in the development 
 
 ## **Data Sources**
 
-Differential gene expression analysis will be carried out using pubicly available RNA seq data of the three comon bean varieties from [NCBI](https://github.com/omicscodeathon/commonbean_degs/blob/main/accessions/acc_list52.txt)
+Differential gene expression analysis will be carried out using pubicly available RNA seq data of the three comon bean varieties from [NCBI-SRA](https://github.com/omicscodeathon/commonbean_degs/blob/main/accessions/acc_list52.txt)
 
 ## **Contributors**
 
