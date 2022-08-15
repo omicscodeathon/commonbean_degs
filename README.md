@@ -7,7 +7,7 @@ Common bean(Phaseolus vulgaris) is an annual leguminous plant grown majorly for 
 
 ## **Aim and Objectives**
 
-
+The aim is to identify differentially expressed genes useful in the development of hard-to-cook defect. 
 
 ## **Workflow**
 ![workfolw](figures/workflow.png)
