@@ -4,7 +4,7 @@
 
 cpus=24
 
-accessions="../accessions/accessions_32_crc_china_wgs_data.txt"
+accessions="../accessions/acc_list52.txt"
 
 output_dir="../fastqs"
 
