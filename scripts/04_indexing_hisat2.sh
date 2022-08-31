@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Download the reference genome
 
@@ -9,16 +9,3 @@ gunzip GCF_000499845.1_PhaVulg1_0_genomic.fna.gz
 
 mv GCF_000499845.1_PhaVulg1_0_genomic.fna ../alignment/
 hisat2-build -f ../alignment/GCF_000499845.1_PhaVulg1_0_genomic.fna ../alignment/GCF_000499845.1_PhaVulg1_0_genomic.fna.idx
-
-#Run the alignment
-
-varieties='Rosecoco Canadian Pinto'
-
-for variety in $varieties
-do
-fastqs=`ls ../clean_fastqs/$variety`
-for fastq in $fastqs
-do
-hisat2 -x ../alignment/GCF_000499845.1_PhaVulg1_0_genomic.fna.idx -U ../clean_fastqs/$variety/$fastq -S ../alignment/hisat.sam
-done
-done
