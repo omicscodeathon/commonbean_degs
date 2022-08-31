@@ -1,6 +1,6 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
-#Quality control assessment
+#Quality control assessment and Trimming of Raw reads
 
 fastqc -t 8 fastqs/*.fastq -o fastqc_reports
 
@@ -13,7 +13,3 @@ name=`basename -s '.fastq' $id`
 mkdir -p fastp_results
 ./fastp -i $id -o fastp_results/$name.trimmed.fastq -e 20 --adapter_sequence=AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
 done
-
-#Quality check after trimming
-mkdir -p fastqc_reports/trimmed_fastqs
-fastqc -t 8 fastp_results/*.fastq -o fastqc_reports/trimmed_fastqs
