@@ -14,7 +14,8 @@ Transcriptomic profiling in three common bean varieties, fast-cooking (cv. Rosec
 The aim is to identify differentially expressed genes during seed development useful in the development of hard-to-cook defect. 
 
 ## **Workflow**
-![workfolw](figures/workflow.png)
+![workflow](https://user-images.githubusercontent.com/92789637/187473859-d4ddf7bf-37f1-4ec4-963e-4994275b094a.png)
+
 
 ## **Data Sources**
 
