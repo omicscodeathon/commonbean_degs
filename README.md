@@ -21,8 +21,14 @@ The aim is to identify differentially expressed genes during seed development us
 
 Differential gene expression analysis will be carried out using pubicly available RNA seq data of the three comon bean varieties from [NCBI-SRA](https://github.com/omicscodeathon/commonbean_degs/blob/main/accessions/acc_list52.txt)
 
+## **Future prospects**
+
+Further studies into the ezyme control theory using the identified enzymes in this study.
+
 ## **Contributors**
 
 1. Olaitan Awe
 
 2. Brenda Kiage
+
+
