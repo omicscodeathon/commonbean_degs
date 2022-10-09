@@ -23,7 +23,7 @@ Differential gene expression analysis will be carried out using pubicly availabl
 
 ## **Future prospects**
 
-Further studies into the ezyme control theory using the identified enzymes in this study.
+Further studies into the enzyme control theory using the identified enzymes in this study.
 
 ## **Contributors**
 
